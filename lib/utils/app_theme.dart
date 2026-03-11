@@ -56,7 +56,7 @@ class AppTheme {
           fontWeight: FontWeight.w700,
         ),
       ),
-      cardTheme: const CardThemeData(
+      cardTheme: const CardTheme(
         color: surfaceCard,
         elevation: 0,
         shape: RoundedRectangleBorder(

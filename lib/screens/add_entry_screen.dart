@@ -453,7 +453,7 @@ class _AddEntryScreenState extends State<AddEntryScreen> {
                           children: [
                             Icon(Icons.save_rounded),
                             SizedBox(width: 8),
-                            Text('Save Entry', fontSize: 16),
+                            Text('Save Entry', style: TextStyle(fontSize: 16)),
                           ],
                         ),
                 ),
